@@ -1,0 +1,11 @@
+@use "../../styles/variables.scss" as *;
+
+.footer {
+  margin-top: auto;
+  background-image: url("/backgrounds/footer-back.svg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  overflow: visible;
+  color: $background-color;
+  overflow: visible;
+}
