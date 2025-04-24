@@ -3,7 +3,7 @@ import styles from "./NavBar.scss";
 import globalStyles from "../../styles/global.scss";
 import Link from "next/link";
 import Image from "next/image";
-import logo from "/Users/alexandersokolovskiy/Developer/health-center-app/public/logos/Logo.svg";
+import logo from "../../../../public/logos/Logo.svg";
 
 function NavBar() {
   return (
